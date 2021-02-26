@@ -9,8 +9,7 @@ permalink: /DOI/
 <b>Date</b>: 2019-09-01<br/>
 <b>Language</b>: English<br/>
 <b>Type</b>: Interactive Resource<br/>
-<b>Format</b>: digital humanities project, [Digital Mappa](https://www.digitalmappa.org)<br/>
-<b>Identifier</b>: DOI: [10.21231/5sh6-ga95](https://maxgray20.github.io/music/)<br/>
+<b>Identifier</b>: [10.21231/5sh6-ga95](https://maxgray20.github.io/music/)<br/>
 <b>Subjects</b>: Ezra Pound, Marjory Kennedy-Fraser, Old English poetry<br/>
 <b>Description</b>: A digital critical edition and introduction of an unpublished essay draft (1928) of the modernist American poet Ezra Pound, held in the [Pound Papers](https://beinecke.library.yale.edu/collections/highlights/ezra-pound-papers) collection at the Beinecke Rare Book and Manuscript Library (Yale); built on the digital humanities platform resource [Digital Mappa](https://www.digitalmappa.org) (version 2.0); an open-source digital humanities platform for open-access, browser-based workspaces, projects and scholarly publications.<br/>
 <b>Source</b>: Ezra Pound, “The Music of Beowulf,” Beinecke Rare Book and Manuscript Library, Pound Papers (YCAL MSS 43): Series IV. Manuscripts, Box 69, Folder 3045.<br/>
